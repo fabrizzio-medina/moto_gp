@@ -1,18 +1,21 @@
 package com.motogp.simulator.repository;
 
-import com.motogp.model.Carrera;
+import com.motogp.model.EventoCarrera;
 import com.motogp.simulator.util.FileUtil;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
+import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Histórico secuencial de la carrera (Java I/O clásico: FileWriter/PrintWriter y FileReader/BufferedReader).
+ */
 public class RegistroCarreraTxt {
 
     private final Path archivoPath;
@@ -22,36 +25,35 @@ public class RegistroCarreraTxt {
         FileUtil.crearArchivo(archivoPath);
     }
 
-    public void guardar(Carrera carrera) throws IOException {
-        try (BufferedWriter writer = Files.newBufferedWriter(archivoPath, StandardCharsets.UTF_8,
-                StandardOpenOption.CREATE, StandardOpenOption.APPEND)) {
-            writer.write(carrera.toWriteTxt());
-            writer.newLine();
+    public void registrar(EventoCarrera evento) throws IOException {
+        try (PrintWriter out = new PrintWriter(new FileWriter(archivoPath.toFile(), StandardCharsets.UTF_8, true))) {
+            out.println(evento.toLinea());
         }
     }
 
-    public List<Carrera> getLista() throws IOException {
-        List<Carrera> carreras = new ArrayList<>();
-
-        try (BufferedReader reader = Files.newBufferedReader(archivoPath, StandardCharsets.UTF_8)) {
-            String fila;
-            int numeroFila = 0;
-
-            while ((fila = reader.readLine()) != null) {
-                numeroFila++;
-                if (fila.isBlank()) continue;
+    public List<EventoCarrera> leerEventos() throws IOException {
+        List<EventoCarrera> eventos = new ArrayList<>();
+        try (BufferedReader in = new BufferedReader(new FileReader(archivoPath.toFile(), StandardCharsets.UTF_8))) {
+            String linea;
+            int numero = 0;
+            while ((linea = in.readLine()) != null) {
+                numero++;
+                if (linea.isBlank()) continue;
                 try {
-                    carreras.add(Carrera.parse(fila));
+                    eventos.add(EventoCarrera.parse(linea));
                 } catch (IllegalArgumentException e) {
-                    throw new IOException("Error en carrera.txt, fila " + numeroFila + ": " + e.getMessage(), e);
+                    throw new IOException("Formato incorrecto en " + archivoPath.getFileName() + ", línea " + numero, e);
                 }
             }
         }
-        return carreras;
+        return eventos;
     }
 
     public int size() throws IOException {
-        return getLista().size();
+        return leerEventos().size();
     }
 
+    public Path getArchivoPath() {
+        return archivoPath;
+    }
 }
