@@ -1,0 +1,6 @@
+01/11/2026 23:57:49.405 INFO  AnalizadorForenseApp - Analizador forense iniciado. Datos: datos Salida: salida
+01/11/2026 23:57:49.552 INFO  AnalizadorForense - Datos leídos: 13 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:57:49.556 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=73 vuelta=8 vel=297.1km/h rpm=16589 tMotor=110.3C tFreno=1109.4C presion=1.97bar incl=40.8º
+01/11/2026 23:57:49.557 INFO  AnalizadorForense - Incidente identificado: FALLO_DE_FRENOS
+01/11/2026 23:57:49.575 INFO  AnalizadorForense - Salidas generadas en C:\Users\fabri\Desktop\Fabrizzio_Medina_MotoGP\moto_gp\salida
+01/11/2026 23:57:49.576 INFO  AnalizadorForenseApp - Analizador forense finalizado

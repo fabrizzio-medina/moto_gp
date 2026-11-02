@@ -1,0 +1,12 @@
+INFORME FORENSE - 01-11-2026 23:57:49
+Circuito: Mugello
+Incidente detectado: FALLO_DE_FRENOS (vuelta 8)
+
+Efectos detectados:
+- aviso 'AVISO_FRENOS' en el histórico para la moto 73 (Álex Márquez);
+- temperatura de frenos de 1109.38 ºC;
+- frenos en estado SOBRECALENTADOS;
+- moto en estado RETIRADA;
+
+Conclusión:
+Los frenos han superado su temperatura máxima de trabajo; el piloto no puede detener la moto con seguridad.

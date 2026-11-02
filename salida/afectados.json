@@ -1,0 +1,16 @@
+{
+  "incidente" : "FALLO_DE_FRENOS",
+  "vuelta" : 8,
+  "circuito" : {
+    "nombre" : "Mugello",
+    "condicionPista" : "SECA"
+  },
+  "motosAfectadas" : [ {
+    "id" : 73,
+    "piloto" : "Álex Márquez",
+    "estado" : "RETIRADA",
+    "motor" : "OPERATIVO",
+    "frenos" : "SOBRECALENTADOS",
+    "neumaticos" : "OPERATIVOS"
+  } ]
+}

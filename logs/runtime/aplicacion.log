@@ -1,0 +1,68 @@
+01/11/2026 23:57:44.588 DEBUG Simulador - Telemetría #18 -> moto=73 vuelta=4 vel=293.8km/h rpm=14362 tMotor=96.8C tFreno=478.4C presion=2.05bar incl=51.3º
+01/11/2026 23:57:44.595 DEBUG Simulador - Telemetría #19 -> moto=20 vuelta=4 vel=317.4km/h rpm=16178 tMotor=99.0C tFreno=719.3C presion=2.07bar incl=49.0º
+01/11/2026 23:57:44.595 DEBUG Simulador - Telemetría #20 -> moto=93 vuelta=5 vel=303.4km/h rpm=17420 tMotor=105.9C tFreno=715.8C presion=1.90bar incl=50.3º
+01/11/2026 23:57:44.595 DEBUG Simulador - Telemetría #21 -> moto=1 vuelta=5 vel=335.0km/h rpm=14122 tMotor=98.7C tFreno=574.2C presion=2.05bar incl=42.7º
+01/11/2026 23:57:44.596 DEBUG Simulador - Telemetría #22 -> moto=89 vuelta=5 vel=332.8km/h rpm=17031 tMotor=98.5C tFreno=567.1C presion=2.05bar incl=56.9º
+01/11/2026 23:57:44.596 DEBUG Simulador - Telemetría #23 -> moto=73 vuelta=5 vel=345.5km/h rpm=15796 tMotor=97.4C tFreno=528.8C presion=2.05bar incl=44.7º
+01/11/2026 23:57:44.597 DEBUG Simulador - Telemetría #24 -> moto=20 vuelta=5 vel=349.4km/h rpm=15392 tMotor=105.3C tFreno=609.9C presion=2.02bar incl=58.2º
+01/11/2026 23:57:44.598 DEBUG Simulador - Telemetría #25 -> moto=93 vuelta=6 vel=345.3km/h rpm=17445 tMotor=101.9C tFreno=601.3C presion=1.93bar incl=52.2º
+01/11/2026 23:57:44.599 DEBUG Simulador - Telemetría #26 -> moto=1 vuelta=6 vel=331.5km/h rpm=16866 tMotor=98.6C tFreno=539.6C presion=2.18bar incl=54.3º
+01/11/2026 23:57:44.599 DEBUG Simulador - Telemetría #27 -> moto=89 vuelta=6 vel=320.2km/h rpm=17219 tMotor=104.8C tFreno=562.6C presion=2.01bar incl=44.7º
+01/11/2026 23:57:44.600 DEBUG Simulador - Telemetría #28 -> moto=73 vuelta=6 vel=321.9km/h rpm=17109 tMotor=108.5C tFreno=645.4C presion=2.14bar incl=56.0º
+01/11/2026 23:57:44.600 DEBUG Simulador - Telemetría #29 -> moto=20 vuelta=6 vel=328.6km/h rpm=15805 tMotor=102.3C tFreno=499.0C presion=1.91bar incl=57.1º
+01/11/2026 23:57:44.601 DEBUG Simulador - Telemetría #30 -> moto=93 vuelta=7 vel=303.9km/h rpm=15397 tMotor=101.0C tFreno=488.8C presion=2.19bar incl=50.5º
+01/11/2026 23:57:44.601 DEBUG Simulador - Telemetría #31 -> moto=1 vuelta=7 vel=293.0km/h rpm=16407 tMotor=102.8C tFreno=636.3C presion=2.13bar incl=40.4º
+01/11/2026 23:57:44.602 DEBUG Simulador - Telemetría #32 -> moto=89 vuelta=7 vel=347.6km/h rpm=16566 tMotor=98.6C tFreno=662.8C presion=2.18bar incl=59.4º
+01/11/2026 23:57:44.602 DEBUG Simulador - Telemetría #33 -> moto=73 vuelta=7 vel=318.2km/h rpm=14788 tMotor=96.6C tFreno=733.3C presion=2.19bar incl=56.5º
+01/11/2026 23:57:44.602 DEBUG Simulador - Telemetría #34 -> moto=20 vuelta=7 vel=327.7km/h rpm=17364 tMotor=107.2C tFreno=676.9C presion=2.02bar incl=52.2º
+01/11/2026 23:57:44.603 DEBUG Simulador - Vuelta 8: aparece una anomalía
+01/11/2026 23:57:44.610 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:57:44.610 WARN  AnalizadorForense - 5 lecturas con velocidad anómala en la vuelta 8
+01/11/2026 23:57:44.611 INFO  AnalizadorForense - Incidente identificado: LLUVIA
+01/11/2026 23:57:44.618 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:57:44.619 DEBUG Simulador - Telemetría #0 -> moto=93 vuelta=1 vel=327.1km/h rpm=16972 tMotor=108.4C tFreno=608.9C presion=2.15bar incl=43.3º
+01/11/2026 23:57:44.619 DEBUG Simulador - Telemetría #1 -> moto=1 vuelta=1 vel=340.6km/h rpm=16046 tMotor=97.8C tFreno=664.7C presion=2.06bar incl=46.2º
+01/11/2026 23:57:44.619 DEBUG Simulador - Telemetría #2 -> moto=89 vuelta=1 vel=293.3km/h rpm=14045 tMotor=101.1C tFreno=675.0C presion=2.07bar incl=45.6º
+01/11/2026 23:57:44.620 DEBUG Simulador - Telemetría #3 -> moto=73 vuelta=1 vel=322.3km/h rpm=15900 tMotor=96.5C tFreno=525.9C presion=1.98bar incl=48.2º
+01/11/2026 23:57:44.620 DEBUG Simulador - Telemetría #4 -> moto=20 vuelta=1 vel=343.0km/h rpm=17384 tMotor=97.3C tFreno=451.5C presion=2.16bar incl=59.5º
+01/11/2026 23:57:44.621 DEBUG Simulador - Telemetría #5 -> moto=93 vuelta=2 vel=317.9km/h rpm=15726 tMotor=98.3C tFreno=461.2C presion=2.08bar incl=44.3º
+01/11/2026 23:57:44.622 DEBUG Simulador - Telemetría #6 -> moto=1 vuelta=2 vel=305.1km/h rpm=14347 tMotor=101.6C tFreno=629.3C presion=2.01bar incl=57.4º
+01/11/2026 23:57:44.622 DEBUG Simulador - Telemetría #7 -> moto=89 vuelta=2 vel=303.7km/h rpm=17203 tMotor=97.7C tFreno=678.8C presion=2.17bar incl=45.5º
+01/11/2026 23:57:44.622 DEBUG Simulador - Telemetría #8 -> moto=73 vuelta=2 vel=298.0km/h rpm=16890 tMotor=109.4C tFreno=735.1C presion=1.97bar incl=60.3º
+01/11/2026 23:57:44.623 DEBUG Simulador - Telemetría #9 -> moto=20 vuelta=2 vel=327.0km/h rpm=16793 tMotor=96.3C tFreno=721.4C presion=1.97bar incl=57.8º
+01/11/2026 23:57:44.623 DEBUG Simulador - Telemetría #10 -> moto=93 vuelta=3 vel=313.0km/h rpm=15778 tMotor=105.4C tFreno=713.0C presion=2.04bar incl=55.9º
+01/11/2026 23:57:44.624 DEBUG Simulador - Telemetría #11 -> moto=1 vuelta=3 vel=347.8km/h rpm=14277 tMotor=110.7C tFreno=559.8C presion=2.07bar incl=50.8º
+01/11/2026 23:57:44.625 DEBUG Simulador - Telemetría #12 -> moto=89 vuelta=3 vel=299.0km/h rpm=15051 tMotor=111.3C tFreno=693.3C presion=2.01bar incl=45.9º
+01/11/2026 23:57:44.625 DEBUG Simulador - Telemetría #13 -> moto=73 vuelta=3 vel=297.1km/h rpm=14902 tMotor=106.3C tFreno=705.3C presion=2.10bar incl=45.1º
+01/11/2026 23:57:44.625 DEBUG Simulador - Telemetría #14 -> moto=20 vuelta=3 vel=331.6km/h rpm=15158 tMotor=108.4C tFreno=530.2C presion=1.93bar incl=49.6º
+01/11/2026 23:57:44.626 DEBUG Simulador - Telemetría #15 -> moto=93 vuelta=4 vel=299.3km/h rpm=17212 tMotor=97.9C tFreno=653.3C presion=2.03bar incl=53.0º
+01/11/2026 23:57:44.626 DEBUG Simulador - Telemetría #16 -> moto=1 vuelta=4 vel=328.6km/h rpm=15125 tMotor=95.4C tFreno=477.3C presion=1.99bar incl=47.9º
+01/11/2026 23:57:44.627 DEBUG Simulador - Telemetría #17 -> moto=89 vuelta=4 vel=297.6km/h rpm=16560 tMotor=99.5C tFreno=508.1C presion=2.04bar incl=46.5º
+01/11/2026 23:57:44.627 DEBUG Simulador - Telemetría #18 -> moto=73 vuelta=4 vel=293.8km/h rpm=14362 tMotor=96.8C tFreno=478.4C presion=2.05bar incl=51.3º
+01/11/2026 23:57:44.627 DEBUG Simulador - Telemetría #19 -> moto=20 vuelta=4 vel=317.4km/h rpm=16178 tMotor=99.0C tFreno=719.3C presion=2.07bar incl=49.0º
+01/11/2026 23:57:44.628 DEBUG Simulador - Telemetría #20 -> moto=93 vuelta=5 vel=303.4km/h rpm=17420 tMotor=105.9C tFreno=715.8C presion=1.90bar incl=50.3º
+01/11/2026 23:57:44.628 DEBUG Simulador - Telemetría #21 -> moto=1 vuelta=5 vel=335.0km/h rpm=14122 tMotor=98.7C tFreno=574.2C presion=2.05bar incl=42.7º
+01/11/2026 23:57:44.629 DEBUG Simulador - Telemetría #22 -> moto=89 vuelta=5 vel=332.8km/h rpm=17031 tMotor=98.5C tFreno=567.1C presion=2.05bar incl=56.9º
+01/11/2026 23:57:44.629 DEBUG Simulador - Telemetría #23 -> moto=73 vuelta=5 vel=345.5km/h rpm=15796 tMotor=97.4C tFreno=528.8C presion=2.05bar incl=44.7º
+01/11/2026 23:57:44.629 DEBUG Simulador - Telemetría #24 -> moto=20 vuelta=5 vel=349.4km/h rpm=15392 tMotor=105.3C tFreno=609.9C presion=2.02bar incl=58.2º
+01/11/2026 23:57:44.630 DEBUG Simulador - Telemetría #25 -> moto=93 vuelta=6 vel=345.3km/h rpm=17445 tMotor=101.9C tFreno=601.3C presion=1.93bar incl=52.2º
+01/11/2026 23:57:44.630 DEBUG Simulador - Telemetría #26 -> moto=1 vuelta=6 vel=331.5km/h rpm=16866 tMotor=98.6C tFreno=539.6C presion=2.18bar incl=54.3º
+01/11/2026 23:57:44.631 DEBUG Simulador - Telemetría #27 -> moto=89 vuelta=6 vel=320.2km/h rpm=17219 tMotor=104.8C tFreno=562.6C presion=2.01bar incl=44.7º
+01/11/2026 23:57:44.631 DEBUG Simulador - Telemetría #28 -> moto=73 vuelta=6 vel=321.9km/h rpm=17109 tMotor=108.5C tFreno=645.4C presion=2.14bar incl=56.0º
+01/11/2026 23:57:44.631 DEBUG Simulador - Telemetría #29 -> moto=20 vuelta=6 vel=328.6km/h rpm=15805 tMotor=102.3C tFreno=499.0C presion=1.91bar incl=57.1º
+01/11/2026 23:57:44.632 DEBUG Simulador - Telemetría #30 -> moto=93 vuelta=7 vel=303.9km/h rpm=15397 tMotor=101.0C tFreno=488.8C presion=2.19bar incl=50.5º
+01/11/2026 23:57:44.632 DEBUG Simulador - Telemetría #31 -> moto=1 vuelta=7 vel=293.0km/h rpm=16407 tMotor=102.8C tFreno=636.3C presion=2.13bar incl=40.4º
+01/11/2026 23:57:44.633 DEBUG Simulador - Telemetría #32 -> moto=89 vuelta=7 vel=347.6km/h rpm=16566 tMotor=98.6C tFreno=662.8C presion=2.18bar incl=59.4º
+01/11/2026 23:57:44.633 DEBUG Simulador - Telemetría #33 -> moto=73 vuelta=7 vel=318.2km/h rpm=14788 tMotor=96.6C tFreno=733.3C presion=2.19bar incl=56.5º
+01/11/2026 23:57:44.633 DEBUG Simulador - Telemetría #34 -> moto=20 vuelta=7 vel=327.7km/h rpm=17364 tMotor=107.2C tFreno=676.9C presion=2.02bar incl=52.2º
+01/11/2026 23:57:44.634 DEBUG Simulador - Vuelta 8: aparece una anomalía
+01/11/2026 23:57:44.637 WARN  Simulador - Telemetría #35 fuera de rango: moto=93 vuelta=8 vel=328.9km/h rpm=15384 tMotor=109.6C tFreno=710.1C presion=1.47bar incl=44.8º
+01/11/2026 23:57:44.640 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:57:44.641 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=93 vuelta=8 vel=328.9km/h rpm=15384 tMotor=109.6C tFreno=710.1C presion=1.47bar incl=44.8º
+01/11/2026 23:57:44.641 INFO  AnalizadorForense - Incidente identificado: PRESION_MINIMA_NEUMATICO
+01/11/2026 23:57:49.405 INFO  AnalizadorForenseApp - Analizador forense iniciado. Datos: datos Salida: salida
+01/11/2026 23:57:49.552 INFO  AnalizadorForense - Datos leídos: 13 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:57:49.556 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=73 vuelta=8 vel=297.1km/h rpm=16589 tMotor=110.3C tFreno=1109.4C presion=1.97bar incl=40.8º
+01/11/2026 23:57:49.557 INFO  AnalizadorForense - Incidente identificado: FALLO_DE_FRENOS
+01/11/2026 23:57:49.575 INFO  AnalizadorForense - Salidas generadas en C:\Users\fabri\Desktop\Fabrizzio_Medina_MotoGP\moto_gp\salida
+01/11/2026 23:57:49.576 INFO  AnalizadorForenseApp - Analizador forense finalizado

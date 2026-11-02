@@ -1,1 +1,13 @@
-1|Italia|16|1|EN_CURSO|1,2,8
+01-11-2026 23:56:04.037|0|0|SALIDA|Semáforo apagado, comienza la carrera en Mugello
+01-11-2026 23:56:04.043|1|89|PASO_META|Lidera la vuelta Jorge Martín
+01-11-2026 23:56:04.044|1|89|ADELANTAMIENTO|Jorge Martín gana una posición
+01-11-2026 23:56:04.048|2|73|PASO_META|Lidera la vuelta Álex Márquez
+01-11-2026 23:56:04.052|3|73|PASO_META|Lidera la vuelta Álex Márquez
+01-11-2026 23:56:04.070|4|89|PASO_META|Lidera la vuelta Jorge Martín
+01-11-2026 23:56:04.070|4|73|ADELANTAMIENTO|Álex Márquez gana una posición
+01-11-2026 23:56:04.074|5|20|PASO_META|Lidera la vuelta Fabio Quartararo
+01-11-2026 23:56:04.078|6|89|PASO_META|Lidera la vuelta Jorge Martín
+01-11-2026 23:56:04.078|6|20|ADELANTAMIENTO|Fabio Quartararo gana una posición
+01-11-2026 23:56:04.083|7|1|PASO_META|Lidera la vuelta Francesco Bagnaia
+01-11-2026 23:56:04.083|7|73|ADELANTAMIENTO|Álex Márquez gana una posición
+01-11-2026 23:56:04.088|8|73|AVISO_FRENOS|Álex Márquez se pasa de frenada en San Donato, disco al rojo vivo

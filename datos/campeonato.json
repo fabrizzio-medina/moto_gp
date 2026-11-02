@@ -1,0 +1,53 @@
+{
+  "nombre" : "MotoGP 2026",
+  "idCarrera" : "GP-ITA-2026",
+  "circuito" : {
+    "nombre" : "Mugello",
+    "pais" : "Italia",
+    "condicionPista" : "SECA"
+  },
+  "totalVueltas" : 20,
+  "vueltaActual" : 8,
+  "estadoSesion" : "EN_CURSO",
+  "motos" : [ {
+    "id" : 93,
+    "nombrePiloto" : "Marc Márquez",
+    "equipo" : "Ducati Lenovo",
+    "motor" : "OPERATIVO",
+    "frenos" : "OPERATIVOS",
+    "neumaticos" : "OPERATIVOS",
+    "estado" : "EN_PISTA"
+  }, {
+    "id" : 1,
+    "nombrePiloto" : "Francesco Bagnaia",
+    "equipo" : "Ducati Lenovo",
+    "motor" : "OPERATIVO",
+    "frenos" : "OPERATIVOS",
+    "neumaticos" : "OPERATIVOS",
+    "estado" : "EN_PISTA"
+  }, {
+    "id" : 89,
+    "nombrePiloto" : "Jorge Martín",
+    "equipo" : "Aprilia Racing",
+    "motor" : "OPERATIVO",
+    "frenos" : "OPERATIVOS",
+    "neumaticos" : "OPERATIVOS",
+    "estado" : "EN_PISTA"
+  }, {
+    "id" : 73,
+    "nombrePiloto" : "Álex Márquez",
+    "equipo" : "Gresini Racing",
+    "motor" : "OPERATIVO",
+    "frenos" : "SOBRECALENTADOS",
+    "neumaticos" : "OPERATIVOS",
+    "estado" : "RETIRADA"
+  }, {
+    "id" : 20,
+    "nombrePiloto" : "Fabio Quartararo",
+    "equipo" : "Monster Yamaha",
+    "motor" : "OPERATIVO",
+    "frenos" : "OPERATIVOS",
+    "neumaticos" : "OPERATIVOS",
+    "estado" : "EN_PISTA"
+  } ]
+}

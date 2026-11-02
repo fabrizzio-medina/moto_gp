@@ -1,0 +1,5 @@
+01/11/2026 23:52:48.648 INFO  SimuladorApp - Simulador iniciado
+01/11/2026 23:52:48.725 INFO  SimuladorApp - Modo normal con semilla 1793573568651
+01/11/2026 23:52:48.772 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:52:48.817 ERROR SimuladorApp - Evento crítico capturado en vuelta 5 (moto 0): Todas las motos por debajo de 150 km/h: bandera roja
+01/11/2026 23:52:48.818 INFO  SimuladorApp - Simulador finalizado

@@ -1,0 +1,6 @@
+01/11/2026 23:56:03.912 INFO  SimuladorApp - Simulador iniciado
+01/11/2026 23:56:03.991 INFO  SimuladorApp - Modo prueba: se provocará FALLO_DE_FRENOS
+01/11/2026 23:56:04.038 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:56:04.087 WARN  Simulador - Telemetría #38 fuera de rango: moto=73 vuelta=8 vel=297.1km/h rpm=16589 tMotor=110.3C tFreno=1109.4C presion=1.97bar incl=40.8º
+01/11/2026 23:56:04.090 ERROR SimuladorApp - Evento crítico capturado en vuelta 8 (moto 73): Valores críticos en la telemetría: moto=73 vuelta=8 vel=297.1km/h rpm=16589 tMotor=110.3C tFreno=1109.4C presion=1.97bar incl=40.8º
+01/11/2026 23:56:04.091 INFO  SimuladorApp - Simulador finalizado

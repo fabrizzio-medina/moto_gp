@@ -1,0 +1,43 @@
+01/11/2026 23:50:52.989 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.074 INFO  Simulador - Carrera finalizada sin eventos críticos. Registros de telemetría: 100
+01/11/2026 23:50:53.082 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.106 WARN  Simulador - Telemetría #39 fuera de rango: moto=20 vuelta=8 vel=313.0km/h rpm=16534 tMotor=99.5C tFreno=1065.4C presion=1.90bar incl=58.5º
+01/11/2026 23:50:53.118 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.182 INFO  Simulador - Carrera finalizada sin eventos críticos. Registros de telemetría: 100
+01/11/2026 23:50:53.186 INFO  AnalizadorForense - Datos leídos: 32 eventos TXT, 100 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.189 INFO  AnalizadorForense - Incidente identificado: INDETERMINADO
+01/11/2026 23:50:53.238 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.270 WARN  Simulador - Telemetría #35 fuera de rango: moto=93 vuelta=8 vel=1.7km/h rpm=0 tMotor=109.6C tFreno=710.1C presion=2.16bar incl=80.6º
+01/11/2026 23:50:53.273 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.276 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=93 vuelta=8 vel=1.7km/h rpm=0 tMotor=109.6C tFreno=710.1C presion=2.16bar incl=80.6º
+01/11/2026 23:50:53.276 INFO  AnalizadorForense - Incidente identificado: CAIDA_EN_CURVA
+01/11/2026 23:50:53.289 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.308 WARN  Simulador - Telemetría #35 fuera de rango: moto=93 vuelta=8 vel=63.1km/h rpm=0 tMotor=147.4C tFreno=710.1C presion=2.16bar incl=44.8º
+01/11/2026 23:50:53.311 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.312 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=93 vuelta=8 vel=63.1km/h rpm=0 tMotor=147.4C tFreno=710.1C presion=2.16bar incl=44.8º
+01/11/2026 23:50:53.312 INFO  AnalizadorForense - Incidente identificado: ROTURA_DE_MOTOR
+01/11/2026 23:50:53.320 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.345 WARN  Simulador - Telemetría #35 fuera de rango: moto=93 vuelta=8 vel=328.9km/h rpm=15384 tMotor=109.6C tFreno=1065.3C presion=2.16bar incl=44.8º
+01/11/2026 23:50:53.349 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.349 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=93 vuelta=8 vel=328.9km/h rpm=15384 tMotor=109.6C tFreno=1065.3C presion=2.16bar incl=44.8º
+01/11/2026 23:50:53.349 INFO  AnalizadorForense - Incidente identificado: FALLO_DE_FRENOS
+01/11/2026 23:50:53.357 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.380 WARN  Simulador - Telemetría #35 fuera de rango: moto=93 vuelta=8 vel=83.1km/h rpm=15384 tMotor=109.6C tFreno=710.1C presion=0.39bar incl=44.8º
+01/11/2026 23:50:53.384 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.384 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=93 vuelta=8 vel=83.1km/h rpm=15384 tMotor=109.6C tFreno=710.1C presion=0.39bar incl=44.8º
+01/11/2026 23:50:53.384 INFO  AnalizadorForense - Incidente identificado: PINCHAZO_DE_NEUMATICO
+01/11/2026 23:50:53.393 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.423 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.423 WARN  AnalizadorForense - 5 lecturas con velocidad anómala en la vuelta 8
+01/11/2026 23:50:53.424 INFO  AnalizadorForense - Incidente identificado: LLUVIA
+01/11/2026 23:50:53.433 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.459 WARN  Simulador - Telemetría #35 fuera de rango: moto=93 vuelta=8 vel=328.9km/h rpm=15384 tMotor=109.6C tFreno=710.1C presion=1.47bar incl=44.8º
+01/11/2026 23:50:53.464 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.464 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=93 vuelta=8 vel=328.9km/h rpm=15384 tMotor=109.6C tFreno=710.1C presion=1.47bar incl=44.8º
+01/11/2026 23:50:53.464 INFO  AnalizadorForense - Incidente identificado: PRESION_MINIMA_NEUMATICO
+01/11/2026 23:50:53.475 INFO  Simulador - Carrera GP-ITA-2026 iniciada en Mugello con 5 motos
+01/11/2026 23:50:53.502 WARN  Simulador - Telemetría #38 fuera de rango: moto=73 vuelta=8 vel=71.2km/h rpm=15131 tMotor=108.2C tFreno=723.6C presion=0.56bar incl=55.3º
+01/11/2026 23:50:53.508 INFO  AnalizadorForense - Datos leídos: 11 eventos TXT, 40 registros BIN, 5 motos JSON
+01/11/2026 23:50:53.508 WARN  AnalizadorForense - Lectura anómala confirmada por TXT y JSON: moto=73 vuelta=8 vel=71.2km/h rpm=15131 tMotor=108.2C tFreno=723.6C presion=0.56bar incl=55.3º
+01/11/2026 23:50:53.509 INFO  AnalizadorForense - Incidente identificado: PINCHAZO_DE_NEUMATICO
+01/11/2026 23:50:53.513 INFO  AnalizadorForense - Salidas generadas en C:\Users\fabri\AppData\Local\Temp\junit-18229460193665018242\salida
